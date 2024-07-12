@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "POC_cobranza",
+            "database": "${workspaceFolder:POC_cobranza_call}/db.sqlite3"
+        }
+    ]
+}
